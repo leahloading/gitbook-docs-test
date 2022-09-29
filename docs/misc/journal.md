@@ -4,6 +4,8 @@ description: Informal record of my project experience
 
 # Journal
 
+## By Day
+
 Find a day by day account of project progress
 
 
