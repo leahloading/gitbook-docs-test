@@ -1,3 +1,2 @@
-# GitBook Docs setup
+# Page 1
 
-- enable GitBook sync
