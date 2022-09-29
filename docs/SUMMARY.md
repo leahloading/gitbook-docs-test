@@ -15,8 +15,6 @@
 ## Misc
 
 * [Journal](misc/journal.md)
-
-***
-
+* [Header test](misc/header-test.md)
 * [Interactive walkthrough](interactive-walkthrough.md)
 
