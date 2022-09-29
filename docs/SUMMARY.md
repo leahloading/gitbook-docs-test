@@ -1,6 +1,6 @@
 # Table of contents
 
-* [hello](hello.md)
+* [Start Here](hello.md)
 
 ## Getting Started
 
