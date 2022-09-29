@@ -6,7 +6,6 @@ description: Informal record of my project experience
 
 Find a day by day account of project progress
 
-## Header shows up here with nesting
 
 ### Day 1
 
@@ -32,3 +31,8 @@ You can drag from a column's edge to resize it. Column resizing is stored as a p
 ```
 
 ## Header on its own?
+#### Two down header in outline?
+
+## Header on its own
+
+### One down
