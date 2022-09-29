@@ -1,3 +1,9 @@
 # Table of contents
 
-<!-- * [Page 1](README.md) -->
+## Getting Started
+
+* [How to use these docs](./getting-started/how-to-use-these-docs.md)
+    * [optional-guide.md](./getting-started/optional-guide.md)  
+* [Common questions](./getting-started/common-questions.md)  
+
+## Project brief
