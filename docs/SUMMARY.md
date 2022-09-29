@@ -14,8 +14,9 @@
 
 ## Misc
 
-* [Real-time journal](misc/journal.md)
+* [Journal](misc/journal.md)
 
 ***
 
 * [Interactive walkthrough](interactive-walkthrough.md)
+
