@@ -4,12 +4,10 @@
 
 - **[journal](../misc/journal.md)**
 a record of my progress so far
-
----
+<br>
 - **[project brief](../project-brief/requirements.md)**
 the brief. starting point for understanding the project outcomes.
-
----
+<br>
 
 ### Further info 
 - You can use the search bar in the top right to look for a specific query
