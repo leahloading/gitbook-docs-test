@@ -14,4 +14,8 @@
 
 ## Misc
 
-* [Journal](./misc/journal.md)
+* [Journal](misc/journal.md)
+
+***
+
+* [Interactive walkthrough](interactive-walkthrough.md)
