@@ -1,3 +1,8 @@
+---
+description: watch a video explaining the app's functionality
+---
+
+
 # Interactive walkthrough
 
 ## Code Walkthroughs
