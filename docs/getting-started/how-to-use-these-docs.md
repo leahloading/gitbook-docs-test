@@ -6,3 +6,9 @@
 - The Journal is an informal document of my thought process throughout this project
 
 ## See [optional guide](optional-guide.md) for more.
+
+This guide should give you additional information on finding what you need!
+
+### Trying out header three :)
+
+Does this create a page outline?
