@@ -11,3 +11,7 @@
 ## Project brief
 
 * [Requirements](project-brief/requirements.md)
+
+## Misc
+
+* [Journal](./misc/journal.md)
