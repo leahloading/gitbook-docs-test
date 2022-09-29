@@ -7,3 +7,5 @@
 * [Common questions](./getting-started/common-questions.md)  
 
 ## Project brief
+
+* [Requirements](./project-brief/requirements.md)
