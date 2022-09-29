@@ -14,7 +14,7 @@
 
 ## Misc
 
-* [Journal](misc/journal.md)
+* [Real-time journal](misc/journal.md)
 
 ***
 
