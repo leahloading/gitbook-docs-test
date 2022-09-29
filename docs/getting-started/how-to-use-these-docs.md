@@ -1,5 +1,3 @@
-# How to use these docs
-
 ## Find what you need in easy steps
 
 - **[journal](../misc/journal.md)**
