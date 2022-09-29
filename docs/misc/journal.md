@@ -6,6 +6,8 @@ description: Informal record of my project experience
 
 Find a day by day account of project progress
 
+## Header shows up here with nesting
+
 ### Day 1
 
 Some learnings
