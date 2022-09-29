@@ -1,4 +1,4 @@
-## How to use these docs
+# How to use these docs
 
 ### Find what you need in easy steps
 
