@@ -20,6 +20,7 @@ You can drag from a column's edge to resize it. Column resizing is stored as a p
 
 ```javascript
 
+    
     function helloWorld() {
 
         console.log("hello world")
