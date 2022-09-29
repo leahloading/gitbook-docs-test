@@ -1,3 +1,7 @@
+---
+description: This guide will introduce you to my project
+---
+
 # Start Here
 
 ### What is Commit?
