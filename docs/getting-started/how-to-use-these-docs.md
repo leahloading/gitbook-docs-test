@@ -2,14 +2,16 @@
 
 ### Find what you need in easy steps
 
-**[journal](../misc/journal.md)**
+- **[journal](../misc/journal.md)**
 a record of my progress so far
+
 ---
-**[project brief](../project-brief/requirements.md)**
+- **[project brief](../project-brief/requirements.md)**
 the brief. starting point for understanding the project outcomes.
+
 ---
 
-### Further info 
+### Further info 
 - You can use the search bar in the top right to look for a specific query
 - Page contents overview can be found in the right hand section of the page
 - Sections can be found on the left sidebar
