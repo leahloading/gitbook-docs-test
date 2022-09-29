@@ -2,7 +2,7 @@
 description: Informal record of my project experience
 ---
 
-# Journal
+# Real-time journal
 
 ## By Day
 
