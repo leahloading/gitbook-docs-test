@@ -1,3 +1,8 @@
+---
+description: Common questions about finding project resources
+---
+
+
 # Common questions
 
 - where can i find information on the API endpoints?
