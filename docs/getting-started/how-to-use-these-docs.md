@@ -5,4 +5,4 @@
 - Sections can be found on the left sidebar
 - The Journal is an informal document of my thought process throughout this project
 
-## See [optional guide](optional-guide.md) for more.
+## See [optional guide](optional-guide.md) for more.
