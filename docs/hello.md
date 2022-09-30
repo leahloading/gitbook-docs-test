@@ -22,7 +22,7 @@ Here is what you should do
 
 ### What is Commit?
 
-* an application to capture the process of taking an application to from idea to deployment.
+* an application to capture the process of taking an application from idea to deployment.
 
 ### What are these docs for?
 
